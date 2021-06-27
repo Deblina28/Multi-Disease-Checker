@@ -21,7 +21,7 @@ Building the code with the right algorithms was the biggest challenge. Another c
 We are proud to have come this far and complete the project on time. We are also proud to have overcome the problems we faced in the code of the project. 
 
 ## What we learned
-
+We learned about the different symptoms of the diseases like COVID-19, flu, cold and allergies. We also learned a lot while working on the code and while figuring out the things that made out heads scratch. All-in-all it was a great experience.
 
 ## What's next for Multi Disease Checker
 We will try to incorporate this Multi Disease Checker with some sensors to actually check one's body parameters, which will help in providing even more accurate test results. Another thing that in future we would like to add onto this project is connecting it to a software or app, which will automatically store the recorded data and send it to a doctor or physician of the user's choice. Lastly, we would like to increase the database of the project to conduct a test for many such diseases and maybe this will become a commercial product too.  
